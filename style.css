@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background: url('https://wallpaperaccess.com/full/2183146.jpg')no-repeat;
+    background-size: cover;
+}
+
+.container{
+    border: 2px solid rgb(58, 182, 182);
+    border-radius: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto','Helvetica Neue', Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    margin: 10px 200px;
+    box-shadow: 8px 10px 8px 10px rgb(9, 68, 68);
+}
+
+
+#img-caption{
+    justify-content: center;   
+    align-items: center;
+    text-align: center;
+    font-size: 1.3rem;
+    padding-bottom: 30px;
+}
+
+#tribute-info p{
+    text-align: justify;
+    padding: 0 15px;
+    font-size: 1.5rem;
+}
+
+#headline{
+    padding: 20px 0;
+}
+
+h4{
+    padding-bottom: 10px;
+}
+
+.list{
+    text-align: justify;
+    padding-left: 200px;
+    padding-right:  90px;
+    padding-bottom: 30px;
+    font-size: 25px;
+}
+
+h3{
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    height: auto;
+    max-width: 100%;
+}  
+
+@media (max-width: 1200px){
+    *{
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    .list{
+        font-size: 20px;
+        text-align: left;
+        padding-bottom: 20px;
+        padding-left: 30px;
+        padding-right: 0;
+    }    
+}
+
+@media (max-width: 869px){    
+    *{
+        padding-left: 2px;
+        padding-right: 2px;
+    }.container{
+        border: none;
+        box-shadow: none;
+    }
+    .list{
+        font-size: 20px;
+    } 
+}
+
+@media (max-width: 755px){
+    *{
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    .container{
+        text-align: left;
+        margin: 0 0;
+    }   
+}
+
+@media (max-width: 500px){
+    *{
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    h3{
+        text-align: center;
+    }
+    h1{
+        text-align: center;
+    }
+    h4{
+        text-align: center;
+    }
+}
+
+@media (max-width: 360px){
+    *{
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    blockquote{
+        text-align: right;
+    }
+    .end{
+        text-align: justify;
+        font-size: 25px;
+    }
+}
