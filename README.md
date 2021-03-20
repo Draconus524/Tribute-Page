@@ -1,10 +1,10 @@
-#GENERAL INFO: 
+# GENERAL INFO: 
 Author: Rohit Vyas
 Date Created: 8th March, 2021
 PROJECT NAME: TRIBUTE PAGE
 CONTACT: Discord: Draconus#9243
 
-#PROJECT INFO: 
+# PROJECT INFO: 
 This is a very small project made by me in 2 days using html and css only. It is a tribute page for Dr. A.P.J Abdul Kalam. Those of you who don't know about him, he was a former president of India.
 
 Avul Pakir Jainulabdeen Abdul Kalam was an Indian aerospace scientist and politician who served as the 11th President of India from 2002 to 2007. He was born and raised in Rameswaram, Tamil Nadu and studied physics and aerospace engineering. He is also known as the "Missile man of India" 
